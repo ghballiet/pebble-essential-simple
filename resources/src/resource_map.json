@@ -1,0 +1,31 @@
+{
+    "media": [
+        {
+            "defName": "FONT_PRAGMATA_48",
+            "type": "font",
+            "file": "fonts/Essential PragmataPro_0811.ttf"
+        },
+        {
+            "defName": "FONT_PRAGMATA_36",
+            "type": "font",
+            "file": "fonts/Essential PragmataPro_0811.ttf"
+        },
+        {
+            "defName": "FONT_PRAGMATA_BOLD_36",
+            "type": "font",
+            "file": "fonts/Essential PragmataPro-B_0.81.ttf"
+        },
+        {
+            "defName": "FONT_PRAGMATA_BOLD_48",
+            "type": "font",
+            "file": "fonts/Essential PragmataPro-B_0.81.ttf"
+        },
+        {
+            "defName": "DUMMY",
+            "type": "raw",
+            "file": "data/resource_map.json"
+        }
+    ],
+    "friendlyVersion": "VERSION",
+    "versionDefName": "APP_RESOURCES"
+}
